@@ -124,7 +124,7 @@ Contains service-request level records and analytical fields including:
 
 ### Star Schema
 
-![NYC 311 Star Schema](data%20model/star_schema.png)
+![NYC 311 Star Schema](data%20model/Data_Model_Star_Schema.png)
 
 ---
 
